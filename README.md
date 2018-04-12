@@ -1,2 +1,2 @@
 # autonux-linux
-Autonux x64Linux Base System Build Components
+Autonux x64 Linux Base System Build Components
