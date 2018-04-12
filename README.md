@@ -1,7 +1,13 @@
-# Autonux x64 Linux Base System Build Components
+# Autonux x64 Linux BASE System Build Components
 
-Supporting Automation Scripts / System Components & KERNEL (v4.14.22 LTS) Source
+Supporting Automation Scripts / System Components & Kernel Source (currently using: v4.14.22 LTS)
 
-Jenkins Running in EC2 Creates an AWS/EC2/EBS Base System Build in a Dedicated EBS Volume
+This Repo Contains All OSS Packages & Linux Kernel Required to Build the Autonux x64 _**BASE**_ OS
 
-Contains All OSS Packages & Linux Kernel Required to Build Base OS
+The Process:
+
+- Jenkins is Running in AWS on an EC2 Instance
+- 2
+- This Creates a Base System Build in a Dedicated EBS Volume
+- 4
+- 5
