@@ -1,1 +1,1 @@
-# Component Utilities Go Here (.tgz - modified)
+# Component Utilities Go Here (.xz only - modified)
