@@ -1,4 +1,4 @@
-# Autonux x64 Linux BASE System Build Components
+# Autonux x64 Linux BASE System Build
 
 Supporting Automation Scripts / System Components & Kernel Source (currently using: v4.14.22 LTS)
 
