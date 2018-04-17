@@ -7,5 +7,10 @@ pipeline {
 #if so then do a build - if not then retire'''
       }
     }
+    stage('Test') {
+      steps {
+        sh '#this is a test'
+      }
+    }
   }
 }
