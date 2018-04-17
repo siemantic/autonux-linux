@@ -13,6 +13,6 @@ check.sh                          gettext-0.19.8.1.tar.xz  libcap-2.25.tar.xz   
 coreutils-8.29-i18n-1.patch       glibc-2.27-fhs-1.patch   libffi-3.2.1.tar.gz               pkg-config-0.29.2.tar.gz               util-linux-2.31.1.tar.xz
 coreutils-8.29.tar.xz             glibc-2.27.tar.xz        libpipeline-1.5.0.tar.gz          procps-ng-3.3.12.tar.xz                vim-8.0.586.tar.bz2
 dbus-1.12.4.tar.gz                gmp-6.1.2.tar.xz         libtool-2.4.6.tar.xz              psmisc-23.1.tar.xz                     wget-list
-dejagnu-1.6.1.tar.gz              gperf-3.1.tar.gz         linux-4.14.22.tar.xz              python-3.6.4-docs-html.tar.bz2         XML-Parser-2.44.tar.gz
+dejagnu-1.6.1.tar.gz              gperf-3.1.tar.gz                                           python-3.6.4-docs-html.tar.bz2         XML-Parser-2.44.tar.gz
 diffutils-3.6.tar.xz              grep-3.1.tar.xz          m4-1.4.18.tar.xz                  Python-3.6.4.tar.xz                    xz-5.2.3.tar.xz
 e2fsprogs-1.43.9.tar.gz           groff-1.22.3.tar.gz      make-4.2.1.tar.bz2                readline-7.0.tar.gz                    zlib-1.2.11.tar.xz
