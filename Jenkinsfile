@@ -7,9 +7,10 @@ pipeline {
 #if so then do a build - if not then retire'''
       }
     }
-    stage('Test') {
+    stage('Kernel Setup') {
       steps {
-        sh '#this is a test'
+        sh '''#un-tar the kernel and
+#install the headers'''
       }
     }
   }
